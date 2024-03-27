@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script:wght@400;700&display=swap');
+
+body {
+    background-color: rgb(235, 235, 235);
+    margin: 0 15%;
+}
+
+h1 {
+    font-family: "Oleo Script", system-ui;
+}
+
+.posicao {
+    text-align: center;
+    margin: 0;
+
+}
+
+h1 {
+    font-size: 69px;
+}
+
+p1 {
+    font-size: 15px;
+}
+.logo { 
+    align-items: start;
+}
+.header { 
+
+    display: flex;
+    align-items: center;
+
+
+}
+.txt-header {
+    width: 100%;
+}
